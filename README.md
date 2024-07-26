@@ -1,6 +1,6 @@
 # labvibes
 
-A new Flutter project.
+User can test his skill through this app.!
 
 ## Getting Started
 
